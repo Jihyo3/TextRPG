@@ -1,0 +1,14 @@
+D:\내배캠 Unity4기\Chap2_Project\bin\Debug\net6.0\Chap2_Project.exe
+D:\내배캠 Unity4기\Chap2_Project\bin\Debug\net6.0\Chap2_Project.deps.json
+D:\내배캠 Unity4기\Chap2_Project\bin\Debug\net6.0\Chap2_Project.runtimeconfig.json
+D:\내배캠 Unity4기\Chap2_Project\bin\Debug\net6.0\Chap2_Project.dll
+D:\내배캠 Unity4기\Chap2_Project\bin\Debug\net6.0\Chap2_Project.pdb
+D:\내배캠 Unity4기\Chap2_Project\obj\Debug\net6.0\Chap2_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\내배캠 Unity4기\Chap2_Project\obj\Debug\net6.0\Chap2_Project.AssemblyInfoInputs.cache
+D:\내배캠 Unity4기\Chap2_Project\obj\Debug\net6.0\Chap2_Project.AssemblyInfo.cs
+D:\내배캠 Unity4기\Chap2_Project\obj\Debug\net6.0\Chap2_Project.csproj.CoreCompileInputs.cache
+D:\내배캠 Unity4기\Chap2_Project\obj\Debug\net6.0\Chap2_Project.dll
+D:\내배캠 Unity4기\Chap2_Project\obj\Debug\net6.0\refint\Chap2_Project.dll
+D:\내배캠 Unity4기\Chap2_Project\obj\Debug\net6.0\Chap2_Project.pdb
+D:\내배캠 Unity4기\Chap2_Project\obj\Debug\net6.0\Chap2_Project.genruntimeconfig.cache
+D:\내배캠 Unity4기\Chap2_Project\obj\Debug\net6.0\ref\Chap2_Project.dll
